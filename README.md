@@ -1,2 +1,2 @@
 # html-portfolio
-My multi-page web portfolio
+My html portfolio
